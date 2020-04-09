@@ -20,9 +20,6 @@
     "FortinetTags": {
       "type": "object"
     },
-    "NSGName": {
-        "type": "string"
-    },
     "location": {
       "type": "string"
     }
