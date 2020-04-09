@@ -59,10 +59,7 @@
               }
             }
           ],
-          "enableIPForwarding": true,
-          "networkSecurityGroup": {
-            "id": "[resourceID('Microsoft.Network/networkSecurityGroups/',parameters('NSGName'))]"
-          }
+          "enableIPForwarding": true
       }
     }
   ],
